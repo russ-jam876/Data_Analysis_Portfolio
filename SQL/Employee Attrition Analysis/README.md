@@ -51,3 +51,6 @@ The dataset used in this analysis is the `Attrition_Table`, which contains infor
 - **Attrition by Salary**: Employees earning below the company’s average salary had higher attrition rates, which suggests that competitive compensation could be key to retaining talent.
 - **Attrition by Age Group**: Younger employees had a higher attrition rate compared to older employees, which could be due to various career development and job satisfaction factors.
 - **Work-Life Balance**: Employees with better work-life balance had lower attrition rates, emphasizing the importance of maintaining a healthy balance between work and personal life.
+
+## Technologies Used
+- **SQL**: For data querying and manipulation.
