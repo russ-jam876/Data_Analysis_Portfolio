@@ -6,8 +6,8 @@ Welcome to my Data Analyst Portfolio. My name is Russell Jamieson and I am an as
 
 ## Education
 
-Bachelor's degree in Mathematics
-*University of Waterloo, Waterloo, ON*
+**University of Waterloo:** 
+- Bachelor of Mathematics - June 2024
 
 ## Projects
 
