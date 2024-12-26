@@ -24,3 +24,7 @@ Bachelor's degree in Mathematics
 
 ### Power BI:
 - [Hardware Store Analysis](https://github.com/russ-jam876/Data_Analysis_Portfolio/tree/main/Power%20BI/Hardware%20Store%20Analysis): Used Power BI to track profit margins inventory levels.
+
+## Contacts:
+- [LinkedIn](www.linkedin.com/in/russell-b-jamieson)
+- Email: russ-jam@outlook.com
