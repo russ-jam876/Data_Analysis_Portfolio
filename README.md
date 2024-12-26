@@ -18,3 +18,9 @@ Bachelor's degree in Mathematics
 ### SQL:
 - [Bike Sales Analysis](https://github.com/russ-jam876/Data_Analysis_Portfolio/tree/main/SQL/Bikes%20Sales%20Analysis): Applied SQL techniques to clean and transform data to conduct an exploratory data analysis in order to uncover patterns and trends in regional performances, customer demographics and profit margins.
 - [Employee Attrition Analysis](https://github.com/russ-jam876/Data_Analysis_Portfolio/tree/main/SQL/Employee%20Attrition%20Analysis): Utilized SQL to analyze employee attrition within a company based on various factors to gain key insights that can help improve employee retention strategies.
+
+### Excel:
+- [Adidas Sales Dashboard](https://github.com/russ-jam876/Data_Analysis_Portfolio/tree/main/Excel): Used Excel to create a dynamic dashboard utilizing pivot tables.
+
+### Power BI:
+- [Hardware Store Analysis](https://github.com/russ-jam876/Data_Analysis_Portfolio/tree/main/Power%20BI/Hardware%20Store%20Analysis): Used Power BI to track profit margins inventory levels.
