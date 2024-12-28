@@ -38,7 +38,7 @@ The dataset consists of:
 
 3. **Model Selection and Training**:
    - Models evaluated: Logistic Regression, Decision Tree, Random Forest, CatBoost, SVM, and KNN.
-   - **Best Model**: CatBoost with an accuracy of 53.75%.
+   - **Best Model**: CatBoost with an accuracy of 54.21%.
 
 4. **Prediction**:
    - Used the trained CatBoost model to predict segments for 2627 new customers.
